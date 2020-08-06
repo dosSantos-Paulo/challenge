@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dosSantos-Paulo/challenge/issues"
   },
-  "homepage": "https://github.com/dosSantos-Paulo/challenge#readme"
+  "homepage": "https://github.com/dosSantos-Paulo/challenge#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
 }
